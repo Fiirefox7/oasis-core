@@ -59,7 +59,7 @@ require (
 	go.uber.org/multierr v1.8.0
 	go.uber.org/zap v1.24.0
 	golang.org/x/crypto v0.3.0
-	golang.org/x/net v0.4.0
+	golang.org/x/net v0.7.0
 	google.golang.org/genproto v0.0.0-20221109142239-94d6d90a7d66
 	google.golang.org/grpc v1.50.1
 	google.golang.org/grpc/security/advancedtls v0.0.0-20221004221323-12db695f1648
@@ -202,8 +202,8 @@ require (
 	golang.org/x/exp v0.0.0-20221205204356-47842c84f3db // indirect
 	golang.org/x/mod v0.7.0 // indirect
 	golang.org/x/sync v0.1.0 // indirect
-	golang.org/x/sys v0.3.0 // indirect
-	golang.org/x/text v0.5.0 // indirect
+	golang.org/x/sys v0.5.0 // indirect
+	golang.org/x/text v0.7.0 // indirect
 	golang.org/x/tools v0.3.0 // indirect
 	gopkg.in/fsnotify.v1 v1.4.7 // indirect
 	gopkg.in/ini.v1 v1.67.0 // indirect
